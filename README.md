@@ -9,5 +9,5 @@ e.g) 01_HR_SortingArray_0229<br>
 
 An abbreviation of the website
 ----------------------------------------------------------------------------------------------------
-- HR : Hacker Rank
-- LC : Leet Code
+- HR : Hacker Rank (https://www.hackerrank.com/)
+- LC : Leet Code (https://leetcode.com/)
