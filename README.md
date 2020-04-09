@@ -7,7 +7,7 @@ File name
 index _ website _ title of the problem _ date of solved the problem<br>
 e.g) 01_HR_SortingArray_0229<br>
 
-An abbreviation of the website
+An abbreviation of website
 ----------------------------------------------------------------------------------------------------
 - HR : Hacker Rank (https://www.hackerrank.com/)
 - LC : Leet Code (https://leetcode.com/)
